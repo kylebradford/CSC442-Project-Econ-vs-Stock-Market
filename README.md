@@ -6,6 +6,7 @@ Econ data set: https://www.kaggle.com/datasets/prasad22/global-economy-indicator
 Stock market data set: https://stooq.com/db/h/?utm_source=chatgpt.com
 
 HW5b 6% of the course grade. Due by 11:59pm on February 26, 2025.
+
 GitHub: Create a Github repository for the project share link with TA and instructor within the pdf as a clickable link. The contributions to the repository will be monitored to know contribution of the team. The Github should contain the python notebook, datasets, and the data dictionary, team meeting notes - as a link or as a filled document and any additional files are always welcomed.
 Assignment: In at most one page, provide a link to the files, write a brief description of the data (not a formal statistical description)
 About data:

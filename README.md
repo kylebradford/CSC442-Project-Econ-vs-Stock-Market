@@ -1,2 +1,2 @@
 # CSC442
-Start of the semester repository
+Economy VS Stock Market Data analysis
